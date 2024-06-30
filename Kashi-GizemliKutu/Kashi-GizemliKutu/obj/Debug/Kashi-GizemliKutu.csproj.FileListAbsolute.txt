@@ -1,0 +1,15 @@
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-GizemliKutu\Kashi-GizemliKutu\bin\Debug\Kashi-GizemliKutu.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-GizemliKutu\Kashi-GizemliKutu\bin\Debug\Kashi-GizemliKutu.pdb
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-GizemliKutu\Kashi-GizemliKutu\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-GizemliKutu\Kashi-GizemliKutu\bin\Debug\Assembly-CSharp.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-GizemliKutu\Kashi-GizemliKutu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-GizemliKutu\Kashi-GizemliKutu\bin\Debug\Rocket.API.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-GizemliKutu\Kashi-GizemliKutu\bin\Debug\Rocket.Core.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-GizemliKutu\Kashi-GizemliKutu\bin\Debug\Rocket.Unturned.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-GizemliKutu\Kashi-GizemliKutu\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-GizemliKutu\Kashi-GizemliKutu\bin\Debug\UnityEngine.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-GizemliKutu\Kashi-GizemliKutu\obj\Debug\Kashi-GizemliKutu.csproj.AssemblyReference.cache
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-GizemliKutu\Kashi-GizemliKutu\obj\Debug\Kashi-GizemliKutu.csproj.CoreCompileInputs.cache
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-GizemliKutu\Kashi-GizemliKutu\obj\Debug\Kashi-Gi.864D3076.Up2Date
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-GizemliKutu\Kashi-GizemliKutu\obj\Debug\Kashi-GizemliKutu.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-GizemliKutu\Kashi-GizemliKutu\obj\Debug\Kashi-GizemliKutu.pdb
